@@ -1,0 +1,1 @@
+This repository demonstrates a common JavaScript bug related to null checks and how to improve code robustness by handling undefined values. The original code only checks for null values, leading to potential errors when undefined values are passed as arguments. The improved solution demonstrates how to handle both null and undefined values more effectively.
